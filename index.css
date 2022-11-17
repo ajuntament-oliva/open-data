@@ -63,7 +63,7 @@ body {
   }
   .img-responsive{
     display: block;
-    width: 100%;
+    width: 75%;
     height: auto;
   }
   
@@ -109,8 +109,12 @@ body {
   @media screen and (min-width: 577px) and (max-width: 768px){
     .img-responsive{
       display: block;
-      width: 100%;
+      width: 75%;
       height: auto;
+    }
+    .grid-col{
+      grid-column-start: 1;
+      grid-column-end: 3;
     }
      /* #chartdiv{
       width: 100%;
@@ -134,6 +138,10 @@ body {
       width: 90%;
       height: 800px;
     } */
+    .grid-col{
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
     .footer{
       grid-template-columns: repeat(2, minmax(50%, 1fr));
       justify-content: center;
