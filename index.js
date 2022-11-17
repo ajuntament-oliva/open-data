@@ -215,6 +215,7 @@ var popSeriesMale = popChart.series.push(
     minBulletDistance: 10,
     xAxis: popXAxis,
     yAxis: popYAxis,
+    fill:am5.color("#c79595"),
     valueYField: "col4",
     valueXField: "col3",
     stacked: true
@@ -318,6 +319,7 @@ var maleLabel = pyramidChart.plotContainer.children.push(am5.Label.new(root, {
   centerX: am5.p100,
   dx: -5,
   fill: pyramidChart.get("colors").getIndex(0),
+  fill:am5.color("#c79595"),
   background: am5.RoundedRectangle.new(root, {
     fill: am5.color(0xffffff),
     fillOpacity: 0.5
@@ -364,6 +366,8 @@ var pyramidSeriesMale = pyramidChart.series.push(
   am5xy.ColumnSeries.new(root, {
     xAxis: pyramidXAxis,
     yAxis: pyramidYAxis,
+  fill:am5.color("#c79595"),
+
     categoryYField: "col4",
     valueXField: "col5",
     clustered: false,
@@ -377,7 +381,7 @@ var pyramidSeriesFemale = pyramidChart.series.push(
   am5xy.ColumnSeries.new(root, {
     xAxis: pyramidXAxis,
     yAxis: pyramidYAxis,
-     fill: am5.color("#00a1b0"),
+    fill: am5.color("#00a1b0"),
     categoryYField: "col4",
     valueXField: "col6",
     clustered: false,
