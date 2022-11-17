@@ -1,0 +1,2550 @@
+[
+    {
+        "Any": 2002,
+        "Rango": "0-4",
+        "Homes": 70,
+        "Dones": 0,
+        "Total": 70
+    },
+    {
+        "Any": 2002,
+        "Rango": "5-9",
+        "Homes": 200,
+        "Dones": 200,
+        "Total": 400
+    },
+    {
+        "Any": 2002,
+        "Rango": "10-14",
+        "Homes": 320,
+        "Dones": 320,
+        "Total": 640
+    },
+    {
+        "Any": 2002,
+        "Rango": "15-19",
+        "Homes": 460,
+        "Dones": 400,
+        "Total": 860
+    },
+    {
+        "Any": 2002,
+        "Rango": "20-24",
+        "Homes": 280,
+        "Dones": 430,
+        "Total": 710
+    },
+    {
+        "Any": 2002,
+        "Rango": "25-29",
+        "Homes": 340,
+        "Dones": 280,
+        "Total": 620
+    },
+    {
+        "Any": 2002,
+        "Rango": "30-34",
+        "Homes": 400,
+        "Dones": 150,
+        "Total": 550
+    },
+    {
+        "Any": 2002,
+        "Rango": "35-39",
+        "Homes": 200,
+        "Dones": 200,
+        "Total": 400
+    },
+    {
+        "Any": 2002,
+        "Rango": "40-44",
+        "Homes": 530,
+        "Dones": 540,
+        "Total": 1070
+    },
+    {
+        "Any": 2002,
+        "Rango": "45-49",
+        "Homes": 400,
+        "Dones": 470,
+        "Total": 870
+    },
+    {
+        "Any": 2002,
+        "Rango": "50-54",
+        "Homes": 470,
+        "Dones": 270,
+        "Total": 740
+    },
+    {
+        "Any": 2002,
+        "Rango": "55-59",
+        "Homes": 400,
+        "Dones": 80,
+        "Total": 480
+    },
+    {
+        "Any": 2002,
+        "Rango": "60-64",
+        "Homes": 140,
+        "Dones": 130,
+        "Total": 270
+    },
+    {
+        "Any": 2002,
+        "Rango": "65-69",
+        "Homes": 340,
+        "Dones": 80,
+        "Total": 420
+    },
+    {
+        "Any": 2002,
+        "Rango": "70-74",
+        "Homes": 150,
+        "Dones": 240,
+        "Total": 390
+    },
+    {
+        "Any": 2002,
+        "Rango": "75-79",
+        "Homes": 150,
+        "Dones": 140,
+        "Total": 290
+    },
+    {
+        "Any": 2002,
+        "Rango": "80-84",
+        "Homes": 70,
+        "Dones": 200,
+        "Total": 270
+    },
+    {
+        "Any": 2002,
+        "Rango": ">84",
+        "Homes": 470,
+        "Dones": 310,
+        "Total": 780
+    },
+    {
+        "Any": 2003,
+        "Rango": "0-4",
+        "Homes": 190,
+        "Dones": 200,
+        "Total": 390
+    },
+    {
+        "Any": 2003,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 220,
+        "Total": 490
+    },
+    {
+        "Any": 2003,
+        "Rango": "10-14",
+        "Homes": 260,
+        "Dones": 240,
+        "Total": 500
+    },
+    {
+        "Any": 2003,
+        "Rango": "15-19",
+        "Homes": 300,
+        "Dones": 240,
+        "Total": 540
+    },
+    {
+        "Any": 2003,
+        "Rango": "20-24",
+        "Homes": 400,
+        "Dones": 320,
+        "Total": 720
+    },
+    {
+        "Any": 2003,
+        "Rango": "25-29",
+        "Homes": 430,
+        "Dones": 370,
+        "Total": 800
+    },
+    {
+        "Any": 2003,
+        "Rango": "30-34",
+        "Homes": 400,
+        "Dones": 390,
+        "Total": 790
+    },
+    {
+        "Any": 2003,
+        "Rango": "35-39",
+        "Homes": 420,
+        "Dones": 400,
+        "Total": 820
+    },
+    {
+        "Any": 2003,
+        "Rango": "40-44",
+        "Homes": 370,
+        "Dones": 330,
+        "Total": 700
+    },
+    {
+        "Any": 2003,
+        "Rango": "45-49",
+        "Homes": 310,
+        "Dones": 270,
+        "Total": 580
+    },
+    {
+        "Any": 2003,
+        "Rango": "50-54",
+        "Homes": 240,
+        "Dones": 260,
+        "Total": 500
+    },
+    {
+        "Any": 2003,
+        "Rango": "55-59",
+        "Homes": 240,
+        "Dones": 230,
+        "Total": 470
+    },
+    {
+        "Any": 2003,
+        "Rango": "60-64",
+        "Homes": 210,
+        "Dones": 220,
+        "Total": 430
+    },
+    {
+        "Any": 2003,
+        "Rango": "65-69",
+        "Homes": 260,
+        "Dones": 300,
+        "Total": 560
+    },
+    {
+        "Any": 2003,
+        "Rango": "70-74",
+        "Homes": 260,
+        "Dones": 290,
+        "Total": 550
+    },
+    {
+        "Any": 2003,
+        "Rango": "75-79",
+        "Homes": 170,
+        "Dones": 210,
+        "Total": 380
+    },
+    {
+        "Any": 2003,
+        "Rango": "80-84",
+        "Homes": 80,
+        "Dones": 140,
+        "Total": 220
+    },
+    {
+        "Any": 2003,
+        "Rango": ">84",
+        "Homes": 70,
+        "Dones": 140,
+        "Total": 210
+    },
+    {
+        "Any": 2004,
+        "Rango": "0-4",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2004,
+        "Rango": "5-9",
+        "Homes": 220,
+        "Dones": 200,
+        "Total": 420
+    },
+    {
+        "Any": 2004,
+        "Rango": "10-14",
+        "Homes": 260,
+        "Dones": 230,
+        "Total": 490
+    },
+    {
+        "Any": 2004,
+        "Rango": "15-19",
+        "Homes": 280,
+        "Dones": 230,
+        "Total": 510
+    },
+    {
+        "Any": 2004,
+        "Rango": "20-24",
+        "Homes": 370,
+        "Dones": 320,
+        "Total": 690
+    },
+    {
+        "Any": 2004,
+        "Rango": "25-29",
+        "Homes": 420,
+        "Dones": 370,
+        "Total": 790
+    },
+    {
+        "Any": 2004,
+        "Rango": "30-34",
+        "Homes": 430,
+        "Dones": 350,
+        "Total": 780
+    },
+    {
+        "Any": 2004,
+        "Rango": "35-39",
+        "Homes": 410,
+        "Dones": 380,
+        "Total": 790
+    },
+    {
+        "Any": 2004,
+        "Rango": "40-44",
+        "Homes": 410,
+        "Dones": 370,
+        "Total": 780
+    },
+    {
+        "Any": 2004,
+        "Rango": "45-49",
+        "Homes": 340,
+        "Dones": 270,
+        "Total": 610
+    },
+    {
+        "Any": 2004,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 270,
+        "Total": 560
+    },
+    {
+        "Any": 2004,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 280,
+        "Total": 550
+    },
+    {
+        "Any": 2004,
+        "Rango": "60-64",
+        "Homes": 240,
+        "Dones": 220,
+        "Total": 460
+    },
+    {
+        "Any": 2004,
+        "Rango": "65-69",
+        "Homes": 230,
+        "Dones": 250,
+        "Total": 480
+    },
+    {
+        "Any": 2004,
+        "Rango": "70-74",
+        "Homes": 260,
+        "Dones": 280,
+        "Total": 540
+    },
+    {
+        "Any": 2004,
+        "Rango": "75-79",
+        "Homes": 140,
+        "Dones": 210,
+        "Total": 350
+    },
+    {
+        "Any": 2004,
+        "Rango": "80-84",
+        "Homes": 80,
+        "Dones": 120,
+        "Total": 200
+    },
+    {
+        "Any": 2004,
+        "Rango": ">84",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2006,
+        "Rango": "80-84",
+        "Homes": 80,
+        "Dones": 120,
+        "Total": 200
+    },
+    {
+        "Any": 2006,
+        "Rango": "0-4",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2006,
+        "Rango": "5-9",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2006,
+        "Rango": "10-14",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2006,
+        "Rango": "15-19",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2006,
+        "Rango": "20-24",
+        "Homes": 360,
+        "Dones": 310,
+        "Total": 670
+    },
+    {
+        "Any": 2006,
+        "Rango": "25-29",
+        "Homes": 460,
+        "Dones": 390,
+        "Total": 850
+    },
+    {
+        "Any": 2006,
+        "Rango": "30-34",
+        "Homes": 460,
+        "Dones": 400,
+        "Total": 860
+    },
+    {
+        "Any": 2006,
+        "Rango": "35-39",
+        "Homes": 430,
+        "Dones": 370,
+        "Total": 800
+    },
+    {
+        "Any": 2006,
+        "Rango": "40-44",
+        "Homes": 410,
+        "Dones": 390,
+        "Total": 800
+    },
+    {
+        "Any": 2006,
+        "Rango": "45-49",
+        "Homes": 340,
+        "Dones": 300,
+        "Total": 640
+    },
+    {
+        "Any": 2006,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2006,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 280,
+        "Total": 550
+    },
+    {
+        "Any": 2006,
+        "Rango": "60-64",
+        "Homes": 160,
+        "Dones": 140,
+        "Total": 300
+    },
+    {
+        "Any": 2006,
+        "Rango": "65-69",
+        "Homes": 210,
+        "Dones": 340,
+        "Total": 550
+    },
+    {
+        "Any": 2006,
+        "Rango": "70-74",
+        "Homes": 220,
+        "Dones": 290,
+        "Total": 510
+    },
+    {
+        "Any": 2006,
+        "Rango": "75-79",
+        "Homes": 150,
+        "Dones": 210,
+        "Total": 360
+    },
+    {
+        "Any": 2006,
+        "Rango": "80-84",
+        "Homes": 80,
+        "Dones": 140,
+        "Total": 220
+    },
+    {
+        "Any": 2007,
+        "Rango": "0-4",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2007,
+        "Rango": "5-9",
+        "Homes": 260,
+        "Dones": 260,
+        "Total": 520
+    },
+    {
+        "Any": 2007,
+        "Rango": "10-14",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2007,
+        "Rango": "15-19",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2007,
+        "Rango": "20-24",
+        "Homes": 350,
+        "Dones": 300,
+        "Total": 650
+    },
+    {
+        "Any": 2007,
+        "Rango": "25-29",
+        "Homes": 480,
+        "Dones": 490,
+        "Total": 970
+    },
+    {
+        "Any": 2007,
+        "Rango": "30-34",
+        "Homes": 470,
+        "Dones": 490,
+        "Total": 960
+    },
+    {
+        "Any": 2007,
+        "Rango": "35-39",
+        "Homes": 440,
+        "Dones": 370,
+        "Total": 810
+    },
+    {
+        "Any": 2007,
+        "Rango": "40-44",
+        "Homes": 410,
+        "Dones": 370,
+        "Total": 780
+    },
+    {
+        "Any": 2007,
+        "Rango": "45-49",
+        "Homes": 360,
+        "Dones": 310,
+        "Total": 670
+    },
+    {
+        "Any": 2007,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2007,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 290,
+        "Total": 560
+    },
+    {
+        "Any": 2007,
+        "Rango": "60-64",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2007,
+        "Rango": "65-69",
+        "Homes": 220,
+        "Dones": 230,
+        "Total": 450
+    },
+    {
+        "Any": 2007,
+        "Rango": "70-74",
+        "Homes": 200,
+        "Dones": 260,
+        "Total": 460
+    },
+    {
+        "Any": 2007,
+        "Rango": "75-79",
+        "Homes": 160,
+        "Dones": 200,
+        "Total": 360
+    },
+    {
+        "Any": 2007,
+        "Rango": "80-84",
+        "Homes": 90,
+        "Dones": 140,
+        "Total": 230
+    },
+    {
+        "Any": 2007,
+        "Rango": ">84",
+        "Homes": 40,
+        "Dones": 130,
+        "Total": 170
+    },
+    {
+        "Any": 2008,
+        "Rango": "0-4",
+        "Homes": 200,
+        "Dones": 230,
+        "Total": 430
+    },
+    {
+        "Any": 2008,
+        "Rango": "5-9",
+        "Homes": 260,
+        "Dones": 240,
+        "Total": 500
+    },
+    {
+        "Any": 2008,
+        "Rango": "10-14",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2008,
+        "Rango": "15-19",
+        "Homes": 350,
+        "Dones": 300,
+        "Total": 650
+    },
+    {
+        "Any": 2008,
+        "Rango": "20-24",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2008,
+        "Rango": "25-29",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2008,
+        "Rango": "30-34",
+        "Homes": 450,
+        "Dones": 380,
+        "Total": 830
+    },
+    {
+        "Any": 2008,
+        "Rango": "35-39",
+        "Homes": 420,
+        "Dones": 380,
+        "Total": 800
+    },
+    {
+        "Any": 2008,
+        "Rango": "40-44",
+        "Homes": 350,
+        "Dones": 320,
+        "Total": 670
+    },
+    {
+        "Any": 2008,
+        "Rango": "45-49",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2008,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2008,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 290,
+        "Total": 560
+    },
+    {
+        "Any": 2008,
+        "Rango": "60-64",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2008,
+        "Rango": "65-69",
+        "Homes": 210,
+        "Dones": 250,
+        "Total": 460
+    },
+    {
+        "Any": 2008,
+        "Rango": "70-74",
+        "Homes": 200,
+        "Dones": 260,
+        "Total": 460
+    },
+    {
+        "Any": 2008,
+        "Rango": "75-79",
+        "Homes": 150,
+        "Dones": 200,
+        "Total": 350
+    },
+    {
+        "Any": 2008,
+        "Rango": "80-84",
+        "Homes": 90,
+        "Dones": 140,
+        "Total": 230
+    },
+    {
+        "Any": 2008,
+        "Rango": ">84",
+        "Homes": 140,
+        "Dones": 190,
+        "Total": ""
+    },
+    {
+        "Any": 2009,
+        "Rango": "0-4",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 230
+    },
+    {
+        "Any": 2009,
+        "Rango": "5-9",
+        "Homes": 250,
+        "Dones": 250,
+        "Total": 490
+    },
+    {
+        "Any": 2009,
+        "Rango": "10-14",
+        "Homes": 260,
+        "Dones": 230,
+        "Total": 510
+    },
+    {
+        "Any": 2009,
+        "Rango": "15-19",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 610
+    },
+    {
+        "Any": 2009,
+        "Rango": "20-24",
+        "Homes": 320,
+        "Dones": 290,
+        "Total": 800
+    },
+    {
+        "Any": 2009,
+        "Rango": "25-29",
+        "Homes": 440,
+        "Dones": 360,
+        "Total": 880
+    },
+    {
+        "Any": 2009,
+        "Rango": "30-34",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 850
+    },
+    {
+        "Any": 2009,
+        "Rango": "35-39",
+        "Homes": 460,
+        "Dones": 390,
+        "Total": 750
+    },
+    {
+        "Any": 2009,
+        "Rango": "40-44",
+        "Homes": 410,
+        "Dones": 340,
+        "Total": 700
+    },
+    {
+        "Any": 2009,
+        "Rango": "45-49",
+        "Homes": 370,
+        "Dones": 330,
+        "Total": 500
+    },
+    {
+        "Any": 2009,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2009,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 270,
+        "Total": 540
+    },
+    {
+        "Any": 2009,
+        "Rango": "60-64",
+        "Homes": 230,
+        "Dones": 240,
+        "Total": 470
+    },
+    {
+        "Any": 2009,
+        "Rango": "65-69",
+        "Homes": 190,
+        "Dones": 200,
+        "Total": 390
+    },
+    {
+        "Any": 2009,
+        "Rango": "70-74",
+        "Homes": 190,
+        "Dones": 220,
+        "Total": 410
+    },
+    {
+        "Any": 2009,
+        "Rango": "75-79",
+        "Homes": 140,
+        "Dones": 220,
+        "Total": 360
+    },
+    {
+        "Any": 2009,
+        "Rango": "80-84",
+        "Homes": 90,
+        "Dones": 130,
+        "Total": 220
+    },
+    {
+        "Any": 2009,
+        "Rango": "85-89",
+        "Homes": 90,
+        "Dones": 130,
+        "Total": 220
+    },
+    {
+        "Any": 2010,
+        "Rango": "0-4",
+        "Homes": 275,
+        "Dones": 245,
+        "Total": 520
+    },
+    {
+        "Any": 2010,
+        "Rango": "5-9",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2010,
+        "Rango": "10-14",
+        "Homes": 250,
+        "Dones": 240,
+        "Total": 490
+    },
+    {
+        "Any": 2010,
+        "Rango": "15-19",
+        "Homes": 265,
+        "Dones": 245,
+        "Total": 510
+    },
+    {
+        "Any": 2010,
+        "Rango": "20-24",
+        "Homes": 315,
+        "Dones": 280,
+        "Total": 595
+    },
+    {
+        "Any": 2010,
+        "Rango": "25-29",
+        "Homes": 420,
+        "Dones": 340,
+        "Total": 760
+    },
+    {
+        "Any": 2010,
+        "Rango": "30-34",
+        "Homes": 470,
+        "Dones": 395,
+        "Total": 865
+    },
+    {
+        "Any": 2010,
+        "Rango": "35-39",
+        "Homes": 470,
+        "Dones": 395,
+        "Total": 865
+    },
+    {
+        "Any": 2010,
+        "Rango": "40-44",
+        "Homes": 415,
+        "Dones": 350,
+        "Total": 765
+    },
+    {
+        "Any": 2010,
+        "Rango": "45-49",
+        "Homes": 385,
+        "Dones": 340,
+        "Total": 725
+    },
+    {
+        "Any": 2010,
+        "Rango": "50-54",
+        "Homes": 300,
+        "Dones": 290,
+        "Total": 590
+    },
+    {
+        "Any": 2010,
+        "Rango": "55-59",
+        "Homes": 275,
+        "Dones": 275,
+        "Total": 550
+    },
+    {
+        "Any": 2010,
+        "Rango": "60-64",
+        "Homes": 235,
+        "Dones": 255,
+        "Total": 490
+    },
+    {
+        "Any": 2010,
+        "Rango": "65-69",
+        "Homes": 200,
+        "Dones": 220,
+        "Total": 420
+    },
+    {
+        "Any": 2010,
+        "Rango": "70-74",
+        "Homes": 185,
+        "Dones": 215,
+        "Total": 400
+    },
+    {
+        "Any": 2010,
+        "Rango": "75-79",
+        "Homes": 150,
+        "Dones": 230,
+        "Total": 380
+    },
+    {
+        "Any": 2010,
+        "Rango": "80-84",
+        "Homes": 95,
+        "Dones": 140,
+        "Total": 235
+    },
+    {
+        "Any": 2010,
+        "Rango": "85-89",
+        "Homes": 95,
+        "Dones": 140,
+        "Total": 235
+    },
+    {
+        "Any": 2011,
+        "Rango": "0-4",
+        "Homes": 280,
+        "Dones": 260,
+        "Total": 540
+    },
+    {
+        "Any": 2011,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2011,
+        "Rango": "10-14",
+        "Homes": 240,
+        "Dones": 250,
+        "Total": 490
+    },
+    {
+        "Any": 2011,
+        "Rango": "15-19",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2011,
+        "Rango": "20-24",
+        "Homes": 310,
+        "Dones": 270,
+        "Total": 580
+    },
+    {
+        "Any": 2011,
+        "Rango": "25-29",
+        "Homes": 400,
+        "Dones": 320,
+        "Total": 720
+    },
+    {
+        "Any": 2011,
+        "Rango": "30-34",
+        "Homes": 460,
+        "Dones": 390,
+        "Total": 850
+    },
+    {
+        "Any": 2011,
+        "Rango": "35-39",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2011,
+        "Rango": "40-44",
+        "Homes": 420,
+        "Dones": 360,
+        "Total": 780
+    },
+    {
+        "Any": 2011,
+        "Rango": "45-49",
+        "Homes": 400,
+        "Dones": 350,
+        "Total": 750
+    },
+    {
+        "Any": 2011,
+        "Rango": "50-54",
+        "Homes": 310,
+        "Dones": 300,
+        "Total": 610
+    },
+    {
+        "Any": 2011,
+        "Rango": "55-59",
+        "Homes": 280,
+        "Dones": 280,
+        "Total": 560
+    },
+    {
+        "Any": 2011,
+        "Rango": "60-64",
+        "Homes": 240,
+        "Dones": 270,
+        "Total": 510
+    },
+    {
+        "Any": 2011,
+        "Rango": "65-69",
+        "Homes": 210,
+        "Dones": 240,
+        "Total": 450
+    },
+    {
+        "Any": 2011,
+        "Rango": "70-74",
+        "Homes": 180,
+        "Dones": 210,
+        "Total": 390
+    },
+    {
+        "Any": 2011,
+        "Rango": "75-79",
+        "Homes": 160,
+        "Dones": 240,
+        "Total": 400
+    },
+    {
+        "Any": 2011,
+        "Rango": "80-84",
+        "Homes": 100,
+        "Dones": 150,
+        "Total": 250
+    },
+    {
+        "Any": 2011,
+        "Rango": ">84",
+        "Homes": 50,
+        "Dones": 120,
+        "Total": 170
+    },
+    {
+        "Any": 2012,
+        "Rango": "0-4",
+        "Homes": 280,
+        "Dones": 250,
+        "Total": 530
+    },
+    {
+        "Any": 2012,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2012,
+        "Rango": "10-14",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2012,
+        "Rango": "15-19",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2012,
+        "Rango": "20-24",
+        "Homes": 330,
+        "Dones": 260,
+        "Total": 590
+    },
+    {
+        "Any": 2012,
+        "Rango": "25-29",
+        "Homes": 370,
+        "Dones": 320,
+        "Total": 690
+    },
+    {
+        "Any": 2012,
+        "Rango": "30-34",
+        "Homes": 560,
+        "Dones": 390,
+        "Total": 950
+    },
+    {
+        "Any": 2012,
+        "Rango": "35-39",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2012,
+        "Rango": "40-44",
+        "Homes": 440,
+        "Dones": 370,
+        "Total": 810
+    },
+    {
+        "Any": 2012,
+        "Rango": "45-49",
+        "Homes": 400,
+        "Dones": 360,
+        "Total": 760
+    },
+    {
+        "Any": 2012,
+        "Rango": "50-54",
+        "Homes": 330,
+        "Dones": 310,
+        "Total": 640
+    },
+    {
+        "Any": 2012,
+        "Rango": "55-59",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2012,
+        "Rango": "60-64",
+        "Homes": 250,
+        "Dones": 290,
+        "Total": 540
+    },
+    {
+        "Any": 2012,
+        "Rango": "65-69",
+        "Homes": 210,
+        "Dones": 220,
+        "Total": 430
+    },
+    {
+        "Any": 2012,
+        "Rango": "70-74",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2012,
+        "Rango": "75-79",
+        "Homes": 170,
+        "Dones": 220,
+        "Total": 390
+    },
+    {
+        "Any": 2012,
+        "Rango": "80-84",
+        "Homes": 100,
+        "Dones": 170,
+        "Total": 270
+    },
+    {
+        "Any": 2012,
+        "Rango": ">84",
+        "Homes": 50,
+        "Dones": 120,
+        "Total": 170
+    },
+    {
+        "Any": 2013,
+        "Rango": "0-4",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2013,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2013,
+        "Rango": "10-14",
+        "Homes": 250,
+        "Dones": 250,
+        "Total": 500
+    },
+    {
+        "Any": 2013,
+        "Rango": "15-19",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2013,
+        "Rango": "20-24",
+        "Homes": 290,
+        "Dones": 250,
+        "Total": 540
+    },
+    {
+        "Any": 2013,
+        "Rango": "25-29",
+        "Homes": 320,
+        "Dones": 320,
+        "Total": 640
+    },
+    {
+        "Any": 2013,
+        "Rango": "30-34",
+        "Homes": 450,
+        "Dones": 370,
+        "Total": 820
+    },
+    {
+        "Any": 2013,
+        "Rango": "35-39",
+        "Homes": 480,
+        "Dones": 390,
+        "Total": 870
+    },
+    {
+        "Any": 2013,
+        "Rango": "40-44",
+        "Homes": 420,
+        "Dones": 380,
+        "Total": 800
+    },
+    {
+        "Any": 2013,
+        "Rango": "45-49",
+        "Homes": 410,
+        "Dones": 360,
+        "Total": 770
+    },
+    {
+        "Any": 2013,
+        "Rango": "50-54",
+        "Homes": 350,
+        "Dones": 320,
+        "Total": 670
+    },
+    {
+        "Any": 2013,
+        "Rango": "55-59",
+        "Homes": 290,
+        "Dones": 270,
+        "Total": 560
+    },
+    {
+        "Any": 2013,
+        "Rango": "60-64",
+        "Homes": 250,
+        "Dones": 270,
+        "Total": 520
+    },
+    {
+        "Any": 2013,
+        "Rango": "65-69",
+        "Homes": 210,
+        "Dones": 250,
+        "Total": 460
+    },
+    {
+        "Any": 2013,
+        "Rango": "70-74",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2013,
+        "Rango": "75-79",
+        "Homes": 150,
+        "Dones": 220,
+        "Total": 370
+    },
+    {
+        "Any": 2013,
+        "Rango": "80-84",
+        "Homes": 100,
+        "Dones": 190,
+        "Total": 290
+    },
+    {
+        "Any": 2013,
+        "Rango": ">84",
+        "Homes": 50,
+        "Dones": 120,
+        "Total": 170
+    },
+    {
+        "Any": 2014,
+        "Rango": "0-4",
+        "Homes": 90,
+        "Dones": 140,
+        "Total": 230
+    },
+    {
+        "Any": 2014,
+        "Rango": "5-9",
+        "Homes": 260,
+        "Dones": 230,
+        "Total": 490
+    },
+    {
+        "Any": 2014,
+        "Rango": "10-14",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2014,
+        "Rango": "15-19",
+        "Homes": 320,
+        "Dones": 290,
+        "Total": 610
+    },
+    {
+        "Any": 2014,
+        "Rango": "20-24",
+        "Homes": 440,
+        "Dones": 360,
+        "Total": 800
+    },
+    {
+        "Any": 2014,
+        "Rango": "25-29",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2014,
+        "Rango": "30-34",
+        "Homes": 460,
+        "Dones": 390,
+        "Total": 850
+    },
+    {
+        "Any": 2014,
+        "Rango": "35-39",
+        "Homes": 410,
+        "Dones": 340,
+        "Total": 750
+    },
+    {
+        "Any": 2014,
+        "Rango": "40-44",
+        "Homes": 370,
+        "Dones": 330,
+        "Total": 700
+    },
+    {
+        "Any": 2014,
+        "Rango": "45-49",
+        "Homes": 250,
+        "Dones": 250,
+        "Total": 500
+    },
+    {
+        "Any": 2014,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2014,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 270,
+        "Total": 540
+    },
+    {
+        "Any": 2014,
+        "Rango": "60-64",
+        "Homes": 230,
+        "Dones": 240,
+        "Total": 470
+    },
+    {
+        "Any": 2014,
+        "Rango": "65-69",
+        "Homes": 190,
+        "Dones": 200,
+        "Total": 390
+    },
+    {
+        "Any": 2014,
+        "Rango": "70-74",
+        "Homes": 190,
+        "Dones": 220,
+        "Total": 410
+    },
+    {
+        "Any": 2014,
+        "Rango": "75-79",
+        "Homes": 140,
+        "Dones": 220,
+        "Total": 360
+    },
+    {
+        "Any": 2014,
+        "Rango": "80-84",
+        "Homes": 90,
+        "Dones": 130,
+        "Total": 220
+    },
+    {
+        "Any": 2014,
+        "Rango": ">84",
+        "Homes": 50,
+        "Dones": 120,
+        "Total": 170
+    },
+    {
+        "Any": 2015,
+        "Rango": "0-4",
+        "Homes": 175,
+        "Dones": 195,
+        "Total": 370
+    },
+    {
+        "Any": 2015,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2015,
+        "Rango": "10-14",
+        "Homes": 265,
+        "Dones": 245,
+        "Total": 510
+    },
+    {
+        "Any": 2015,
+        "Rango": "15-19",
+        "Homes": 280,
+        "Dones": 265,
+        "Total": 545
+    },
+    {
+        "Any": 2015,
+        "Rango": "20-24",
+        "Homes": 355,
+        "Dones": 305,
+        "Total": 660
+    },
+    {
+        "Any": 2015,
+        "Rango": "25-29",
+        "Homes": 390,
+        "Dones": 335,
+        "Total": 725
+    },
+    {
+        "Any": 2015,
+        "Rango": "30-34",
+        "Homes": 410,
+        "Dones": 360,
+        "Total": 770
+    },
+    {
+        "Any": 2015,
+        "Rango": "35-39",
+        "Homes": 425,
+        "Dones": 365,
+        "Total": 790
+    },
+    {
+        "Any": 2015,
+        "Rango": "40-44",
+        "Homes": 405,
+        "Dones": 365,
+        "Total": 770
+    },
+    {
+        "Any": 2015,
+        "Rango": "45-49",
+        "Homes": 325,
+        "Dones": 310,
+        "Total": 635
+    },
+    {
+        "Any": 2015,
+        "Rango": "50-54",
+        "Homes": 280,
+        "Dones": 260,
+        "Total": 540
+    },
+    {
+        "Any": 2015,
+        "Rango": "55-59",
+        "Homes": 255,
+        "Dones": 255,
+        "Total": 510
+    },
+    {
+        "Any": 2015,
+        "Rango": "60-64",
+        "Homes": 305,
+        "Dones": 305,
+        "Total": 610
+    },
+    {
+        "Any": 2015,
+        "Rango": "65-69",
+        "Homes": 245,
+        "Dones": 245,
+        "Total": 490
+    },
+    {
+        "Any": 2015,
+        "Rango": "70-74",
+        "Homes": 225,
+        "Dones": 250,
+        "Total": 475
+    },
+    {
+        "Any": 2015,
+        "Rango": "75-79",
+        "Homes": 190,
+        "Dones": 245,
+        "Total": 435
+    },
+    {
+        "Any": 2015,
+        "Rango": "80-84",
+        "Homes": 145,
+        "Dones": 185,
+        "Total": 330
+    },
+    {
+        "Any": 2015,
+        "Rango": ">84",
+        "Homes": 95,
+        "Dones": 165,
+        "Total": 260
+    },
+    {
+        "Any": 2016,
+        "Rango": "0-4",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2016,
+        "Rango": "5-9",
+        "Homes": 280,
+        "Dones": 270,
+        "Total": 550
+    },
+    {
+        "Any": 2016,
+        "Rango": "10-14",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2016,
+        "Rango": "15-19",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2016,
+        "Rango": "10-14",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2016,
+        "Rango": "15-19",
+        "Homes": 300,
+        "Dones": 270,
+        "Total": 570
+    },
+    {
+        "Any": 2016,
+        "Rango": "20-24",
+        "Homes": 360,
+        "Dones": 330,
+        "Total": 690
+    },
+    {
+        "Any": 2016,
+        "Rango": "25-29",
+        "Homes": 440,
+        "Dones": 390,
+        "Total": 830
+    },
+    {
+        "Any": 2016,
+        "Rango": "30-34",
+        "Homes": 440,
+        "Dones": 400,
+        "Total": 840
+    },
+    {
+        "Any": 2016,
+        "Rango": "35-39",
+        "Homes": 400,
+        "Dones": 370,
+        "Total": 770
+    },
+    {
+        "Any": 2016,
+        "Rango": "40-44",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2016,
+        "Rango": "45-49",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2016,
+        "Rango": "50-54",
+        "Homes": 380,
+        "Dones": 370,
+        "Total": 750
+    },
+    {
+        "Any": 2016,
+        "Rango": "55-59",
+        "Homes": 300,
+        "Dones": 290,
+        "Total": 590
+    },
+    {
+        "Any": 2016,
+        "Rango": "60-64",
+        "Homes": 260,
+        "Dones": 280,
+        "Total": 540
+    },
+    {
+        "Any": 2016,
+        "Rango": "65-69",
+        "Homes": 240,
+        "Dones": 270,
+        "Total": 510
+    },
+    {
+        "Any": 2016,
+        "Rango": "70-74",
+        "Homes": 200,
+        "Dones": 240,
+        "Total": 440
+    },
+    {
+        "Any": 2016,
+        "Rango": "75-79",
+        "Homes": 140,
+        "Dones": 210,
+        "Total": 350
+    },
+    {
+        "Any": 2016,
+        "Rango": "80-84",
+        "Homes": 120,
+        "Dones": 220,
+        "Total": 340
+    },
+    {
+        "Any": 2016,
+        "Rango": ">84",
+        "Homes": 280,
+        "Dones": 250,
+        "Total": 530
+    },
+    {
+        "Any": 2017,
+        "Rango": "0-4",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2017,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2017,
+        "Rango": "10-14",
+        "Homes": 330,
+        "Dones": 260,
+        "Total": 590
+    },
+    {
+        "Any": 2017,
+        "Rango": "15-19",
+        "Homes": 370,
+        "Dones": 320,
+        "Total": 690
+    },
+    {
+        "Any": 2017,
+        "Rango": "20-24",
+        "Homes": 560,
+        "Dones": 390,
+        "Total": 950
+    },
+    {
+        "Any": 2017,
+        "Rango": "25-29",
+        "Homes": 480,
+        "Dones": 400,
+        "Total": 880
+    },
+    {
+        "Any": 2017,
+        "Rango": "30-34",
+        "Homes": 440,
+        "Dones": 370,
+        "Total": 810
+    },
+    {
+        "Any": 2017,
+        "Rango": "35-39",
+        "Homes": 400,
+        "Dones": 360,
+        "Total": 760
+    },
+    {
+        "Any": 2017,
+        "Rango": "40-44",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2017,
+        "Rango": "45-49",
+        "Homes": 330,
+        "Dones": 310,
+        "Total": 640
+    },
+    {
+        "Any": 2017,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 280,
+        "Total": 570
+    },
+    {
+        "Any": 2017,
+        "Rango": "55-59",
+        "Homes": 250,
+        "Dones": 290,
+        "Total": 540
+    },
+    {
+        "Any": 2017,
+        "Rango": "60-64",
+        "Homes": 210,
+        "Dones": 220,
+        "Total": 430
+    },
+    {
+        "Any": 2017,
+        "Rango": "65-69",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2017,
+        "Rango": "70-74",
+        "Homes": 170,
+        "Dones": 220,
+        "Total": 390
+    },
+    {
+        "Any": 2017,
+        "Rango": "75-79",
+        "Homes": 100,
+        "Dones": 170,
+        "Total": 270
+    },
+    {
+        "Any": 2017,
+        "Rango": "80-84",
+        "Homes": 70,
+        "Dones": 140,
+        "Total": 210
+    },
+    {
+        "Any": 2017,
+        "Rango": ">84",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2018,
+        "Rango": "0-4",
+        "Homes": 250,
+        "Dones": 250,
+        "Total": 500
+    },
+    {
+        "Any": 2018,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2018,
+        "Rango": "10-14",
+        "Homes": 290,
+        "Dones": 250,
+        "Total": 540
+    },
+    {
+        "Any": 2018,
+        "Rango": "15-19",
+        "Homes": 320,
+        "Dones": 320,
+        "Total": 640
+    },
+    {
+        "Any": 2018,
+        "Rango": "20-24",
+        "Homes": 450,
+        "Dones": 370,
+        "Total": 820
+    },
+    {
+        "Any": 2018,
+        "Rango": "25-29",
+        "Homes": 480,
+        "Dones": 390,
+        "Total": 870
+    },
+    {
+        "Any": 2018,
+        "Rango": "30-34",
+        "Homes": 420,
+        "Dones": 380,
+        "Total": 800
+    },
+    {
+        "Any": 2018,
+        "Rango": "35-39",
+        "Homes": 410,
+        "Dones": 360,
+        "Total": 770
+    },
+    {
+        "Any": 2018,
+        "Rango": "40-44",
+        "Homes": 270,
+        "Dones": 230,
+        "Total": 500
+    },
+    {
+        "Any": 2018,
+        "Rango": "45-49",
+        "Homes": 350,
+        "Dones": 320,
+        "Total": 670
+    },
+    {
+        "Any": 2018,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 270,
+        "Total": 560
+    },
+    {
+        "Any": 2018,
+        "Rango": "55-59",
+        "Homes": 250,
+        "Dones": 270,
+        "Total": 520
+    },
+    {
+        "Any": 2018,
+        "Rango": "60-64",
+        "Homes": 210,
+        "Dones": 250,
+        "Total": 460
+    },
+    {
+        "Any": 2018,
+        "Rango": "65-69",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2018,
+        "Rango": "70-74",
+        "Homes": 150,
+        "Dones": 220,
+        "Total": 370
+    },
+    {
+        "Any": 2018,
+        "Rango": "75-79",
+        "Homes": 100,
+        "Dones": 190,
+        "Total": 290
+    },
+    {
+        "Any": 2018,
+        "Rango": "80-84",
+        "Homes": 80,
+        "Dones": 150,
+        "Total": 230
+    },
+    {
+        "Any": 2018,
+        "Rango": ">84",
+        "Homes": 250,
+        "Dones": 230,
+        "Total": 480
+    },
+    {
+        "Any": 2019,
+        "Rango": "0-4",
+        "Homes": 230,
+        "Dones": 230,
+        "Total": 460
+    },
+    {
+        "Any": 2019,
+        "Rango": "5-9",
+        "Homes": 270,
+        "Dones": 220,
+        "Total": 490
+    },
+    {
+        "Any": 2019,
+        "Rango": "10-14",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2019,
+        "Rango": "15-19",
+        "Homes": 310,
+        "Dones": 290,
+        "Total": 600
+    },
+    {
+        "Any": 2019,
+        "Rango": "20-24",
+        "Homes": 420,
+        "Dones": 350,
+        "Total": 770
+    },
+    {
+        "Any": 2019,
+        "Rango": "25-29",
+        "Homes": 450,
+        "Dones": 400,
+        "Total": 850
+    },
+    {
+        "Any": 2019,
+        "Rango": "30-34",
+        "Homes": 450,
+        "Dones": 380,
+        "Total": 830
+    },
+    {
+        "Any": 2019,
+        "Rango": "35-39",
+        "Homes": 410,
+        "Dones": 370,
+        "Total": 780
+    },
+    {
+        "Any": 2019,
+        "Rango": "40-44",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2019,
+        "Rango": "45-49",
+        "Homes": 350,
+        "Dones": 350,
+        "Total": 700
+    },
+    {
+        "Any": 2019,
+        "Rango": "50-54",
+        "Homes": 290,
+        "Dones": 290,
+        "Total": 580
+    },
+    {
+        "Any": 2019,
+        "Rango": "55-59",
+        "Homes": 270,
+        "Dones": 290,
+        "Total": 560
+    },
+    {
+        "Any": 2019,
+        "Rango": "60-64",
+        "Homes": 210,
+        "Dones": 270,
+        "Total": 480
+    },
+    {
+        "Any": 2019,
+        "Rango": "65-69",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2019,
+        "Rango": "70-74",
+        "Homes": 190,
+        "Dones": 210,
+        "Total": 400
+    },
+    {
+        "Any": 2019,
+        "Rango": "75-79",
+        "Homes": 100,
+        "Dones": 200,
+        "Total": 300
+    },
+    {
+        "Any": 2019,
+        "Rango": "80-84",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2019,
+        "Rango": "85-89",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2019,
+        "Rango": "90-94",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2019,
+        "Rango": "95-99",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2020,
+        "Rango": "0-4",
+        "Homes": 300,
+        "Dones": 270,
+        "Total": 570
+    },
+    {
+        "Any": 2020,
+        "Rango": "5-9",
+        "Homes": 360,
+        "Dones": 330,
+        "Total": 690
+    },
+    {
+        "Any": 2020,
+        "Rango": "10-14",
+        "Homes": 440,
+        "Dones": 390,
+        "Total": 830
+    },
+    {
+        "Any": 2020,
+        "Rango": "15-19",
+        "Homes": 440,
+        "Dones": 400,
+        "Total": 2020
+    },
+    {
+        "Any": 2020,
+        "Rango": "20-24",
+        "Homes": 400,
+        "Dones": 370,
+        "Total": 770
+    },
+    {
+        "Any": 2020,
+        "Rango": "25-29",
+        "Homes": "280,\"270",
+        "Dones": 550,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "30-34",
+        "Homes": "380,\"370",
+        "Dones": 750,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "35-39",
+        "Homes": "300,\"290",
+        "Dones": 590,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "40-44",
+        "Homes": "260,\"280",
+        "Dones": 540,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "45-49",
+        "Homes": "240,\"270",
+        "Dones": 510,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "50-54",
+        "Homes": "200,\"240",
+        "Dones": 440,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "55-59",
+        "Homes": "140,\"210",
+        "Dones": 350,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "60-64",
+        "Homes": "120,\"220",
+        "Dones": 340,
+        "Total": ""
+    },
+    {
+        "Any": 2020,
+        "Rango": "65-69",
+        "Homes": 80,
+        "Dones": 180,
+        "Total": 260
+    },
+    {
+        "Any": 2020,
+        "Rango": "70-74",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2020,
+        "Rango": "75-79",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2020,
+        "Rango": "80-84",
+        "Homes": 240,
+        "Dones": 240,
+        "Total": 480
+    },
+    {
+        "Any": 2020,
+        "Rango": "85-89",
+        "Homes": 270,
+        "Dones": 250,
+        "Total": 520
+    },
+    {
+        "Any": 2021,
+        "Rango": "0-4",
+        "Homes": 440,
+        "Dones": 390,
+        "Total": 830
+    },
+    {
+        "Any": 2021,
+        "Rango": "5-9",
+        "Homes": 440,
+        "Dones": 400,
+        "Total": 840
+    },
+    {
+        "Any": 2021,
+        "Rango": "10-14",
+        "Homes": 400,
+        "Dones": 370,
+        "Total": 770
+    },
+    {
+        "Any": 2021,
+        "Rango": "15-19",
+        "Homes": 280,
+        "Dones": 270,
+        "Total": 550
+    },
+    {
+        "Any": 2021,
+        "Rango": "20-24",
+        "Homes": 380,
+        "Dones": 370,
+        "Total": 750
+    },
+    {
+        "Any": 2021,
+        "Rango": "25-29",
+        "Homes": 300,
+        "Dones": 290,
+        "Total": 590
+    },
+    {
+        "Any": 2021,
+        "Rango": "30-34",
+        "Homes": 260,
+        "Dones": 280,
+        "Total": 540
+    },
+    {
+        "Any": 2021,
+        "Rango": "35-39",
+        "Homes": 240,
+        "Dones": 270,
+        "Total": 510
+    },
+    {
+        "Any": 2021,
+        "Rango": "40-44",
+        "Homes": 200,
+        "Dones": 240,
+        "Total": 440
+    },
+    {
+        "Any": 2021,
+        "Rango": "45-49",
+        "Homes": 140,
+        "Dones": 210,
+        "Total": 350
+    },
+    {
+        "Any": 2021,
+        "Rango": "50-54",
+        "Homes": 120,
+        "Dones": 220,
+        "Total": 340
+    },
+    {
+        "Any": 2021,
+        "Rango": "55-59",
+        "Homes": 80,
+        "Dones": 180,
+        "Total": 260
+    },
+    {
+        "Any": 2021,
+        "Rango": "60-64",
+        "Homes": 230,
+        "Dones": 230,
+        "Total": 460
+    },
+    {
+        "Any": 2021,
+        "Rango": "65-69",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2021,
+        "Rango": "70-74",
+        "Homes": 260,
+        "Dones": 250,
+        "Total": 510
+    },
+    {
+        "Any": 2021,
+        "Rango": "75-79",
+        "Homes": 260,
+        "Dones": 240,
+        "Total": 500
+    },
+    {
+        "Any": 2021,
+        "Rango": "80-84",
+        "Homes": 270,
+        "Dones": 270,
+        "Total": 540
+    },
+    {
+        "Any": 2021,
+        "Rango": "85-89",
+        "Homes": 350,
+        "Dones": 320,
+        "Total": 670
+    },
+    {
+        "Any": 2022,
+        "Rango": "0-4",
+        "Homes": 280,
+        "Dones": 270,
+        "Total": 550
+    },
+    {
+        "Any": 2022,
+        "Rango": "5-9",
+        "Homes": 380,
+        "Dones": 380,
+        "Total": 760
+    },
+    {
+        "Any": 2022,
+        "Rango": "10-14",
+        "Homes": 330,
+        "Dones": 330,
+        "Total": 660
+    },
+    {
+        "Any": 2022,
+        "Rango": "15-19",
+        "Homes": 280,
+        "Dones": 280,
+        "Total": 560
+    },
+    {
+        "Any": 2022,
+        "Rango": "20-24",
+        "Homes": 250,
+        "Dones": 280,
+        "Total": 530
+    },
+    {
+        "Any": 2022,
+        "Rango": "25-29",
+        "Homes": 190,
+        "Dones": 230,
+        "Total": 420
+    },
+    {
+        "Any": 2022,
+        "Rango": "30-34",
+        "Homes": 150,
+        "Dones": 230,
+        "Total": 380
+    },
+    {
+        "Any": 2022,
+        "Rango": "35-39",
+        "Homes": 120,
+        "Dones": 210,
+        "Total": 330
+    },
+    {
+        "Any": 2022,
+        "Rango": "40-44",
+        "Homes": 90,
+        "Dones": 190,
+        "Total": 280
+    },
+    {
+        "Any": 2022,
+        "Rango": "45-49",
+        "Homes": 220,
+        "Dones": 220,
+        "Total": 440
+    },
+    {
+        "Any": 2022,
+        "Rango": "50-54",
+        "Homes": 270,
+        "Dones": 260,
+        "Total": 530
+    },
+    {
+        "Any": 2022,
+        "Rango": "55-59",
+        "Homes": 260,
+        "Dones": 260,
+        "Total": 520
+    },
+    {
+        "Any": 2022,
+        "Rango": "60-64",
+        "Homes": 270,
+        "Dones": 240,
+        "Total": 510
+    },
+    {
+        "Any": 2022,
+        "Rango": "65-69",
+        "Homes": 270,
+        "Dones": 260,
+        "Total": 530
+    },
+    {
+        "Any": 2022,
+        "Rango": "70-74",
+        "Homes": 310,
+        "Dones": 300,
+        "Total": 610
+    },
+    {
+        "Any": 2022,
+        "Rango": "75-79",
+        "Homes": 430,
+        "Dones": 360,
+        "Total": 790
+    },
+    {
+        "Any": 2022,
+        "Rango": "80-84",
+        "Homes": 430,
+        "Dones": 400,
+        "Total": 830
+    },
+    {
+        "Any": 2022,
+        "Rango": "85-89",
+        "Homes": 430,
+        "Dones": 360,
+        "Total": 790
+    }
+]
