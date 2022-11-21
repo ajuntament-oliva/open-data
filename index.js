@@ -177,7 +177,7 @@ var popSubtitle = popChart.children.unshift(am5.Label.new(root, {
 }));
 
 var popTitle = popChart.children.unshift(am5.Label.new(root, {
-  text: "Població en Oliva",
+  text: "Evolució de la població en Oliva",
   fontSize: 20,
   x: am5.p50,
   centerX: am5.p50
