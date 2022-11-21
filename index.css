@@ -4,7 +4,7 @@ body {
   
   #chartdiv {
     width: 100%;
-    height: 98vh;
+    height: 80vh;
   }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -149,7 +149,7 @@ body {
     .img-responsive{
       display: inline-block;
       width: auto;
-      height: auto;
+      height: 30%;
     }
   }
   @media screen and (min-width:993px) and (max-width:1200px) {
@@ -160,8 +160,8 @@ body {
   
     .img-responsive{
       display: inline-block;
-      width: auto;
-      height: auto;
+      width: 25%;
+      height: 30%;
     }
   
     .footer{
@@ -182,9 +182,12 @@ body {
   
   @media screen and (min-width:1201px) {
     .img-responsive{
-      display: inline-block;
-      width: auto;
+      width: 40%;
       height: auto;
+    }
+
+    .reducir{
+      width: 20%;
     }
   
       .footer{
