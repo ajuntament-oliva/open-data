@@ -44,7 +44,7 @@ var currentYear = new Date().getFullYear().toString();
 var sourceData = [];
 
 // Load pyramid data
-// am5.net.load("https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-160/un_population_age_groups.csv").then(function(result) {
+
 am5.net.load("poblacioOriginal.csv").then(function(result) {
   
   // Parse data
@@ -114,8 +114,9 @@ function getCurrentData() {
     }
   });
   currentData.sort(function(a, b) {
-    var a1 = Number(a.col4.replace(/[^0-9]+.*$/, ""));
-    var b1 = Number(b.col4.replace(/[^0-9]+.*$/, ""));
+    var a1 = Number(a.col4.replace(/[^0-9>]+.*$/, ""));
+    var b1 = Number(b.col4.replace(/[^0-9>]+.*$/, ""));
+    console.log(a1,b1);
     if (a1 > b1) {
       return 1;
     }
