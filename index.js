@@ -45,7 +45,7 @@ var sourceData = [];
 
 // Load pyramid data
 
-am5.net.load("poblacioOriginal.csv").then(function(result) {
+am5.net.load("poblacio.csv").then(function(result) {
   
   // Parse data
   var data = am5.CSVParser.parse(result.response, {
