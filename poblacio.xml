@@ -1,132 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
-    <Any>2001</Any>
-    <Rang>00-04</Rang>
-    <Homes>103</Homes>
-    <Dones>0</Dones>
-    <Total>103</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>05-09</Rang>
-    <Homes>243</Homes>
-    <Dones>192</Dones>
-    <Total>435</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>10-14</Rang>
-    <Homes>413</Homes>
-    <Dones>308</Dones>
-    <Total>721</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>15-19</Rang>
-    <Homes>680</Homes>
-    <Dones>385</Dones>
-    <Total>1065</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>20-24</Rang>
-    <Homes>328</Homes>
-    <Dones>221</Dones>
-    <Total>549</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>25-29</Rang>
-    <Homes>425</Homes>
-    <Dones>260</Dones>
-    <Total>685</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>30-34</Rang>
-    <Homes>486</Homes>
-    <Dones>144</Dones>
-    <Total>630</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>35-39</Rang>
-    <Homes>243</Homes>
-    <Dones>192</Dones>
-    <Total>435</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>40-44</Rang>
-    <Homes>389</Homes>
-    <Dones>510</Dones>
-    <Total>899</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>45-49</Rang>
-    <Homes>632</Homes>
-    <Dones>462</Dones>
-    <Total>1094</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>50-54</Rang>
-    <Homes>583</Homes>
-    <Dones>250</Dones>
-    <Total>833</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>55-59</Rang>
-    <Homes>486</Homes>
-    <Dones>77</Dones>
-    <Total>563</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>60-64</Rang>
-    <Homes>219</Homes>
-    <Dones>135</Dones>
-    <Total>354</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>65-69</Rang>
-    <Homes>413</Homes>
-    <Dones>77</Dones>
-    <Total>490</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>70-74</Rang>
-    <Homes>170</Homes>
-    <Dones>260</Dones>
-    <Total>430</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>75-79</Rang>
-    <Homes>170</Homes>
-    <Dones>135</Dones>
-    <Total>305</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>80-84</Rang>
-    <Homes>103</Homes>
-    <Dones>192</Dones>
-    <Total>295</Total>
-  </row>
-  <row>
-    <Any>2001</Any>
-    <Rang>&gt;84</Rang>
-    <Homes>583</Homes>
-    <Dones>308</Dones>
-    <Total>891</Total>
-  </row>
-  <row>
     <Any>2002</Any>
     <Rang>00-04</Rang>
     <Homes>216</Homes>
@@ -136,7 +10,7 @@
   <row>
     <Any>2002</Any>
     <Rang>05-09</Rang>
-    <Homes>270</Homes>
+    <HoWmes>270</HoWmes>
     <Dones>252</Dones>
     <Total>522</Total>
   </row>
